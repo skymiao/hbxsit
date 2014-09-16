@@ -1,0 +1,211 @@
+.News_index{
+	margin: 0 auto;
+    width: 1200px;
+}
+
+.News_title{
+	height: 45px;
+	background-color: #2792e2;
+}
+
+.News_title img{
+	float: left;
+    margin: 12px 5px 0 20px;
+}
+
+.News_title h1{
+	color: #ffffff;
+    float: left;
+    font: bold 18px/40px "微软雅黑";
+}
+
+.News_title span{
+	float: right;
+	margin-right: 20px;
+}
+
+.News_title a{
+	color: #ffffff;
+	font: 16px/40px "微软雅黑";
+}
+
+.News_title2{
+	height: 40px;
+	width: 584px;
+	border-bottom: 3px solid #939393;
+}
+
+.News_title2 img{
+	float: left;
+    margin: 15px 5px 0 20px;
+}
+
+.News_title2 h1{
+	color: #2792E2;
+    float: left;
+    font: bold 18px/40px "微软雅黑";
+    margin-left: 10px;
+}
+
+.News_title2 span{
+	float: right;
+	margin-right: 10px;
+}
+
+.News_title2 a{
+	color: #2792E2;
+	font: 16px/45px "微软雅黑";
+}
+
+.Hot{
+	margin: 10px 0;
+	width: 1200px;
+}
+
+.Hot .Hot_list{
+	margin: 10px 0;
+	overflow: hidden;
+}
+
+.Hot .Hlist{
+	width: 274px;
+	border: 1px solid #DEDEDE;
+	float: left;
+	margin: 12px;
+}
+
+.Hot .Hlist:hover{
+	border: 1px solid #2A93E2;
+}
+
+.Hot .Hpic{
+	width: 274px;
+	height: 168px;
+}
+
+.Hot .Htitle{
+	text-align: center;
+	color: #2792E2;
+	font:bold 16px "微软雅黑";
+	margin: 5px 0;
+}
+
+.Hot .Htitle a{
+	color: #2792E2;
+}
+
+.Hot .Hcontent{
+	color: #858383;
+	font:  14px/25px "微软雅黑";
+	margin: 10px;
+}
+
+.Hot .Hcontent span  a{
+	color: #FF3030;
+	font-weight: bold;
+}
+
+
+.Promotions{
+	margin: 10px 0;
+}
+
+/*本例css*/
+.Promotions_list { width: 1200px; height: 330px; margin:10px auto; position: relative; margin-bottom: 15px; }
+.Promotions_list #imgA{ float: right; }
+.Promotions_list img{ width:584px; height:330px; border: 1px solid #DEDEDE;}
+.Promotions_list img:hover{ border: 3px solid #2A93E2; }
+
+
+/*数字按钮样式*/
+.Promotions_list .num { overflow:hidden; height: 25px; position: absolute; bottom:12px; left: 15px; zoom:1; z-index:3 }
+.Promotions_list .num li { width: 25px; height: 25px; line-height: 25px; text-align: center; font-weight: 400; font-family: "微软雅黑", Arial; color: #FFFFFF; background: #444444; margin-right: 10px; border-radius:50%; cursor:pointer; float: left; }
+.Promotions_list .num li.on { background: #FF7700; } /*当前项*/
+
+/*上一个  下一个*/
+.Promotions_list .prev,
+.Promotions_list .next { display: none; width: 40px; height: 100px; background: url(../images/btn.png) no-repeat; position: absolute; top: 115px;}
+.Promotions_list .prev { left: 0; }
+.Promotions_list .next { right: 0; background-position: right }
+
+
+
+
+.News_list{
+	margin: 10px 0;
+	overflow: hidden;
+}
+
+.New_releases{
+	width: 584px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.New_releases_content{
+	
+}
+
+.New_releases_Top{
+	 margin-bottom: 15px;
+}
+
+.Top_title h2{
+	font:  16px "微软雅黑";
+	margin: 10px 0 10px 15px;
+}
+
+.Top_title h2 a{
+	color: #2A93E2;
+}
+
+.Top_content{
+	overflow: hidden;
+}
+
+.Top_content .Top_pic{
+	float: left;
+	margin-right: 10px;
+	width: 247px; 
+	height: 138px;
+}
+
+.Top_content .Top_text{
+	float: left;
+	width: 325px;
+	font: 14px/29px "微软雅黑";
+	color: #858383;
+}
+
+.Top_content .Top_text span  a{
+	color: #FF3030;
+	font-weight: bold;
+}
+
+.New_releases_list ul li{
+	height: 30px;
+}
+
+.New_releases_list p{
+	float: left;
+}
+
+.New_releases_list p img{
+	margin-right: 5px;
+}
+
+.New_releases_list li span{
+	float: right;
+	color: #5C5A5A;
+}
+
+.Company_News,.Media_attention{
+	float: left;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.Culture{
+	float: left;
+	margin-bottom: 15px;
+}

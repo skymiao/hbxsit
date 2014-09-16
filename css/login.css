@@ -1,0 +1,120 @@
+.login{
+
+}
+
+.loginfull{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.login_title{
+	height: 111px;
+}
+
+.login_title .title_logo{
+	float: left;
+	height: 71px;
+	width: 367px;
+	margin: 20px 20px 0 200px;
+	padding-right: 20px;
+	border-right: 1px solid #939393;
+}
+
+.login_title .title_text{
+	float: left;
+	height: 71px;
+	margin-top: 20px;
+	width: 550px;
+}
+
+.login_title .title_text h1{
+	font: 35px/71px "微软雅黑";
+	color: #2792E2;
+}
+
+.loginfull2{
+	background-color: #2792E2;
+}
+
+.login_input{
+	margin: 0 auto;
+	width: 1200px;
+	position: relative;
+	height: 406px;
+}
+
+.login_pic{
+	height: 56px;
+    position: absolute;
+    right: 260px;
+    top: 10px;
+    width: 120px;
+}
+
+.login_from{
+	height: 300px;
+    position: absolute;
+    right: 150px;
+    top: 70px;
+    width: 340px;
+    background-color: #ffffff;
+}
+
+.login_name{
+	font: 14px/24px "微软雅黑";
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 290px;
+}
+
+.login_name #name1{
+	font: bold 16px/24px "微软雅黑";
+}
+
+.login_name #name2 a{
+	float: right;
+	color: #44A1E6;
+}
+
+.login_from input {
+	border: 1px solid #9B9B9B;
+    font: bold 16px/24px "微软雅黑";
+    height: 40px;
+    margin-left: 20px;
+    width: 294px;
+}
+
+.login_checkbox{
+	height: 30px;
+}
+
+.login_checkbox #checkbox{
+	height: 18px;
+    margin: 11px 5px 0 19px;
+    width: 18px;
+    display: inline;
+    float: left;
+}
+
+.login_checkbox p{
+	line-height: 37px;
+}
+
+.login_bottom{
+	margin-top: 20px;
+}
+
+.login_bottom #bottom{
+	border: medium none;
+
+}
+
+.login_register{
+	float: right;
+    margin-right: 20px;
+}
+
+.login_register a{
+	color: #44A1E6;
+}
+
