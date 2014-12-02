@@ -1,0 +1,115 @@
+.reg{
+	border-bottom: 5px solid #2792E2;
+	padding-bottom: 5px;
+	margin-top: 10px;
+}
+
+.form{
+    margin: 50px 0;
+}
+
+.reglogo {
+    float: left;
+    height: 102px;
+    width: 148px;
+    border-right: 2px solid #2792E2;
+    padding-right: 20px;
+    margin-left: 120px;
+}
+
+.reglogo a:link, .reglogo a:visited, .reglogo a:hover {
+    background: url("../images/logo2.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 102px;
+    width: 148px;
+}
+
+.regtext{
+	margin-left: 30px;
+    margin-top: 65px;
+}
+
+.searchAreaBlock h2{
+	color: #2792E2;
+	font: 24px "微软雅黑";
+}
+
+.registertext{
+	float: right;
+	font: 16px "微软雅黑";
+	color: #9F9F9F;
+	margin-top: 75px;
+	margin-right: 120px;
+}
+
+.registertext a{
+	color: #2792E2;
+	font-weight: bold;
+}
+
+.regName{
+	height: 60px;
+    line-height: 34px;
+    padding-top: 9px;
+    position: relative;
+}
+
+.regName .label {
+    color: #999999;
+    float: left;
+    font-size: 14px;
+    line-height: 34px;
+    padding-right: 10px;
+    text-align: right;
+    width: 190px;
+}
+
+.regName #regName{
+	border: 1px solid #CCCCCC;
+    color: #999999;
+    float: none;
+    font-family: arial,"宋体";
+    font-size: 14px;
+    height: 16px;
+    padding: 10px 25px 10px 5px;
+    width: 238px;
+}
+
+.regName .img{
+    float: left;
+}
+
+.regName .btn-img{
+    background-color: #369AE4;
+    border: medium none;
+    height: 37px;
+    width: 270px;
+    font: 18px "微软雅黑";
+    color: #ffffff;
+}
+
+.regName_error{
+	font: 12px/34px "微软雅黑";
+	color: #9F9F9F;
+}
+
+.text{
+	border: 1px solid #CCCCCC;
+    color: #999999;
+    float: left;
+    font-family: arial,"宋体";
+    font-size: 14px;
+    height: 16px;
+    padding: 10px 25px 10px 5px;
+    width: 100px;
+}
+
+.fl{
+	float: left;
+	margin-right: 20px;
+}
+
+.register{
+	margin: 0 auto;
+	width: 960px;
+}

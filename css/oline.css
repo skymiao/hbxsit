@@ -1,0 +1,178 @@
+.online{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.online_bg{
+	margin: 20px 0px;
+}
+
+.online_Project{
+	overflow: hidden;
+}
+
+.online_Project .online_list{
+	float: left;
+    margin: 0px 0px 30px 20px;
+    text-align: center;
+}
+
+.online_list .online_pic{
+	margin: 10px 0px;
+}
+
+.online_list .online_title{
+	margin-bottom: 10px;
+}
+
+.online_list .online_title h1{
+	font: bold 24px "微软雅黑";
+    color: #606060;
+}
+
+.online_list .online_content{
+	color: #2792e2;
+}
+
+.online_list .online_content span{
+    font: 16px "微软雅黑";
+    margin: 5px;
+}
+
+.online_list .online_content span a{
+	color: #2792e2;
+}
+
+.online_Project .cle{
+	margin: 0 140px;
+}
+
+.address_title{
+	border-bottom: 5px solid #2792E2;
+    height: 35px;
+    margin: 10px 0px;
+}
+
+.address_title h1{
+	font: bold 24px "微软雅黑";
+	color: #2792E2;
+	text-indent: 20px;
+}
+
+.address_content{
+	overflow: hidden;
+}
+
+.address_list{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.address_list h2{
+	text-align: center;
+	color: #606060;
+	font: bold 20px "微软雅黑";
+}
+
+.list1{
+	background: url("../images/Province_HB.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+	overflow: hidden;
+}
+
+.list2{
+	background: url("../images/Province_JX.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+	overflow: hidden;
+}
+
+.list3{
+	background: url("../images/Province_HN.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+	overflow: hidden;
+	height: 400px;
+}
+
+.list_text{
+	float: left;
+	margin: 10px 0;
+}
+
+.list_content{
+	width: 400px;
+	margin-right: 80px;
+}
+
+.list_content li{
+	margin: 10px 0;
+	color: #606060;
+	font: 14px "微软雅黑";
+	padding-left: 50px;
+}
+
+.list_content .li_foucs{
+	color: #606060;
+	font: bold 16px "微软雅黑";
+	padding-left: 50px;
+}
+
+.both{
+	background-color: #939393;
+    height: 1px;
+}
+
+.Consulting_from{
+	/*width: 610px;*/
+	margin: 20px 0 40px;
+	overflow: hidden;
+}
+
+.Consulting_from h2{
+	font: bold 16px "微软雅黑";
+	color: #2792E2;
+	text-indent: 30px;
+}
+
+.Consulting_input{
+	/*height: 30px;*/
+	margin: 10px 0 20px 50px;
+}
+
+.Consulting_input .input_project{
+	float: left;
+    text-align: right;
+    width: 100px;
+    line-height: 30px;
+    color: #7A7979;
+    font: bold 16px/27px "微软雅黑";
+}
+
+.input_inputbox{
+	/*width: 465px;*/
+}
+
+.input_inputbox p{
+	line-height: 30px;
+	color: #716F6F;
+}
+
+.Consulting_input .input_inputbox input{
+	border: 1px solid #558A9A;
+    font: 16px/24px "微软雅黑";
+    width: 250px;
+    height: 27px;
+    text-indent: 5px;
+}
+
+.messages_bottom{
+    text-align: center;
+}
+
+.messages_bottom .btn-img {
+    background-color: #2792E2;
+    border: medium none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font: 18px "微软雅黑";
+    height: 37px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    width: 170px;
+}

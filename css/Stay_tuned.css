@@ -1,0 +1,30 @@
+.Stay_tuned{
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.STbg{
+	margin: 10px 0;
+}
+
+.ST_bottom{
+	font:bold 24px "微软雅黑";
+	color: #606060;
+	margin: 20px 0;
+}
+
+.ST_bottom .ST_text{
+	float: left;
+	margin-left: 26%;
+}
+
+.ST_bottom .ST_pic{
+	float: left;
+}
+
+.ST1{
+	text-align: center;
+	font:bold 40px "微软雅黑";
+	color: #606060;
+	margin: 20px 0;
+}
